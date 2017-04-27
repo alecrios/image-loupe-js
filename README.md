@@ -1,6 +1,10 @@
 # Image Loupe JS
 
-Demo Coming Soon
+&nbsp;
+
+## Demo
+
+&nbsp;
 
 ## Features
 
@@ -12,6 +16,8 @@ Demo Coming Soon
 * Customizable
 	* Very minimal CSS
 	* Supports custom loupe size, border, and shadow
+
+&nbsp;
 
 ## Usage
 
