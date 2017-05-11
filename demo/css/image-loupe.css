@@ -1,0 +1,29 @@
+/* =============================================================================
+Image Loupe JS v0.0.1 | MIT License | https://github.com/alecrios/image-loupe-js
+============================================================================= */
+
+[data-loupe-wrapper] {
+	position: relative;
+}
+
+[data-loupe-image] {
+	display: block;
+	cursor: none;
+}
+
+[data-loupe-enlarged-image] {
+	width: auto;
+	max-width: none;
+}
+
+[data-loupe] {
+	position: absolute;
+	overflow: hidden;
+	width: 200px;
+	height: 200px;
+	border: 8px solid rgba(255, 255, 255, 0.5);
+	border-radius: 50%;
+	box-shadow: 0 0 24px 0 rgba(192, 192, 192, 0.5);
+	opacity: 0;
+	pointer-events: none;
+}

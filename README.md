@@ -1,10 +1,12 @@
 # Image Loupe JS
 
+Description coming soon.
+
 &nbsp;
 
 ## Demo
 
-Coming soon.
+https://alecrios.github.io/image-loupe-js/
 
 &nbsp;
 
@@ -18,6 +20,12 @@ Coming soon.
 * Customizable
 	* Very minimal CSS
 	* Supports custom loupe size, border, and shadow
+
+&nbsp;
+
+## Development
+
+This project is still under development and not production-ready. It is written in ES2015, so it needs to be compiled with something like [Babel](https://babeljs.io/) for better browser support.
 
 &nbsp;
 
