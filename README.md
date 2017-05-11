@@ -19,7 +19,7 @@ https://alecrios.github.io/image-loupe-js/
 	* Utilizes the `requestAnimationFrame` API
 * Customizable
 	* Very minimal CSS
-	* Supports custom loupe size, border, and shadow
+	* Easy to change loupe size, border, shadow, etc
 
 &nbsp;
 
